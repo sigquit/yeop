@@ -1,10 +1,10 @@
-/*! jQuery v1.7.1 jquery.com | jquery.org/license */ 
+/*! jQuery v1.7.1 jquery.com | jquery.org/license */
 (function( window, undefined ) {
 
 // Use the correct document accordingly with window argument (sandbox)
 var document = window.document,
     navigator = window.navigator,
-	location = window.location;
+    location = window.location;
 var jQuery = (function() {
 
 // Define a local copy of jQuery
